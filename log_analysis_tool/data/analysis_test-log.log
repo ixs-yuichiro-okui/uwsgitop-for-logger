@@ -1,0 +1,3213 @@
+2024-07-19 06:00:04
+2024-07-19 06:00:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:00:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:00:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:00:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:00:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:01:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:01:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:01:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:01:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:01:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:01:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:02:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:02:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:02:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:02:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:02:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:02:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:03:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:03:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 0 - RPS: 0 - lq: 0 - tx: 0
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	0.0	8	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:03:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:03:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:03:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:03:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:04:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:04:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:04:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:04:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:04:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:04:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:05:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:05:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:05:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:05:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:05:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:05:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:06:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:06:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:06:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:06:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:06:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:06:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 1 - RPS: 0 - lq: 0 - tx: 99
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	100.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	100.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 3	0.0	11	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:07:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:07:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:07:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:07:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:07:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:07:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:08:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:08:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:08:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:08:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:08:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:08:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:09:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:09:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:09:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:09:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:09:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:09:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:10:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:10:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:10:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:10:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:10:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:10:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:11:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:11:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:11:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:11:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:11:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:11:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:12:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:12:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:12:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:12:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:12:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:12:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:13:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:13:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:13:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:13:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:13:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:13:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:14:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:14:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:14:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:14:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:14:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:14:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:15:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:15:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:15:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:15:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:15:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:15:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:16:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:16:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:16:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:16:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:16:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:16:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:17:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:17:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:17:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:17:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:17:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:17:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:18:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:18:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:18:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:18:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:18:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:18:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:19:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:19:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:19:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:19:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:19:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:19:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:20:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:20:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:20:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:20:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:20:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:20:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:21:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:21:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:21:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:21:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:21:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:21:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:22:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:22:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:22:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:22:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:22:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:22:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:23:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:23:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:23:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:23:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:23:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:23:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:24:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:24:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:24:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:24:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:24:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:24:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:25:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:25:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:25:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:25:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:25:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:25:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:26:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:26:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:26:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:26:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:26:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:26:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:27:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:27:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:27:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:27:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:27:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:27:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:28:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:28:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:28:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:28:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:28:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:28:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:29:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:29:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:29:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:29:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:29:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:29:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:30:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:30:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:30:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:30:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:30:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:30:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:31:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:31:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:31:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:31:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:31:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:31:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:32:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:32:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:32:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:32:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:32:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:32:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:33:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:33:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:33:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:33:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:33:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:33:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:34:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:34:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:34:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:34:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:34:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:34:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:35:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:35:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:35:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:35:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:35:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:35:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:36:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:36:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:36:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:36:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:36:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:36:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:37:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:37:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:37:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:37:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:37:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:37:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:38:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:38:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:38:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:38:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:38:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:38:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:39:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:39:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:39:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:39:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:39:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:39:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:40:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:40:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:40:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:40:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:40:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:40:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:41:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:41:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:41:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:41:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:41:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:41:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:42:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:42:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:42:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:42:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:42:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:42:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:43:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:43:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:43:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:43:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:43:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:43:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:44:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:44:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:44:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:44:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:44:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:44:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:45:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:45:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:45:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:45:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:45:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:45:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:46:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:46:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:46:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:46:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:46:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:46:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:47:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:47:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:47:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:47:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:47:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:47:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:48:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:48:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:48:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:48:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:48:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:48:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:49:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:49:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:49:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:49:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:49:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:49:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:50:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:50:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 2 - RPS: 0 - lq: 0 - tx: 198
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	1	0	0	0	idle	36ms	56.3M	179.7M	99	1	0	72.933	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	50.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	50.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:50:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 3 - RPS: 0 - lq: 0 - tx: 867
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	66.7	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	33.3	-	1	0	-	-	idle	-	-	-	-	-
+  :1	33.3	-	1	0	-	-	idle	-	-	-	-	-
+ 3	33.3	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	33.3	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:50:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 3 - RPS: 0 - lq: 0 - tx: 867
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	66.7	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	33.3	-	1	0	-	-	idle	-	-	-	-	-
+  :1	33.3	-	1	0	-	-	idle	-	-	-	-	-
+ 3	33.3	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	33.3	-	1	0	-	-	idle	-	-	-	-	-
+ 2	0.0	10	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:50:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:50:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:51:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:51:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:51:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:51:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:51:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:51:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:52:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:52:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:52:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:52:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:52:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:52:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:53:04
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:53:14
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:53:24
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:53:34
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:53:44
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
+2024-07-19 06:53:54
+node: None - cwd: /usr/src/python - uid: 0 - gid: 0 - masterpid: 1
+uwsgi-2.0.25.1 - Fri Jul 19 15:58:48 2024 - req: 4 - RPS: 0 - lq: 0 - tx: 8.2K
+ WID	%	PID	REQ	RPS	EXC	SIG	STATUS	AVG	RSS	VSZ	TX	ReSpwn	HC	RunT	LastSpwn
+ 1	50.0	8	2	0	0	0	idle	55ms	57.5M	179.7M	768	1	0	147.991	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+  :1	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 2	25.0	10	1	0	0	0	idle	497ms	58.2M	181.4M	7.4K	1	0	994.988	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 3	25.0	11	1	0	0	0	idle	35ms	56.3M	179.7M	99	1	0	71.0	13:18:32
+  :0	25.0	-	1	0	-	-	idle	-	-	-	-	-
+ 4	0.0	13	0	0	0	0	idle	0ms	0	0	0	1	0	0.0	13:18:32
